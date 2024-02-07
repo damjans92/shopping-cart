@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Car",
+    "price": 12000,
+    "imgUrl": "/images/car.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1099,
+    "imgUrl": "/images/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Camera",
+    "price": 799,
+    "imgUrl": "/images/camera.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Orange",
+    "price": 1.75,
+    "imgUrl": "/images/orange.jpg"
+  }
+]
