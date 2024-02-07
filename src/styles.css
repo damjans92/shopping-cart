@@ -1,0 +1,6 @@
+.rounded-circle.btn-cart:hover .cart-icon path {
+  fill: rgb(255, 255, 255) !important;
+}
+.cart-icon path {
+  transition: fill 0.3s ease;
+}

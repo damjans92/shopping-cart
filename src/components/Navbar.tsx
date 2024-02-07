@@ -21,7 +21,7 @@ const Navbar = () => {
           <Button
             style={{ width: '3rem', height: '3rem', position: 'relative' }}
             variant='outline-primary'
-            className='rounded-circle'
+            className='rounded-circle btn-cart'
             onClick={openCart}
           >
             <svg
@@ -29,6 +29,7 @@ const Navbar = () => {
               version='1.1'
               xmlns='http://www.w3.org/2000/svg'
               fill='#000000'
+              className='cart-icon'
             >
               <g id='SVGRepo_bgCarrier' strokeWidth='0'></g>
               <g
