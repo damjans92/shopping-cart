@@ -1,3 +1,7 @@
+# Shopping Cart
+Simple shopping cart functionality made with React and Typescript.
+Cart products are stored in local storage.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
